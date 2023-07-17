@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S masn=interl $CFILE
+gcc -S masn=intel $CFILE
